@@ -4,7 +4,7 @@ package com.mohamad.projectstarting.di
 
 import com.example.powerfulljetpack.di.main.MainScope
 
-import com.mohamad.projectstarting.ui.auth.AuthActivity
+import com.mohamad.projectstarting.ui.main.MainActivity
 import dagger.Module
 import dagger.android.ContributesAndroidInjector
 
@@ -17,6 +17,6 @@ abstract class ActivityBuildersModule {
 
         
     )
-    abstract fun contributeMainActivity(): AuthActivity
+    abstract fun contributeMainActivity(): MainActivity
 
 }
