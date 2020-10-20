@@ -17,7 +17,7 @@ interface OpenApiAuthMainService {
         @Field("username") username: String,
         @Field("password") password: String,
         @Field("password2") password2: String
-    ): LiveData<GenericApiResponse<RegistrationResponse>>
+    ): LiveData<GenericApiResponse<GenericResponse>>
 
     @POST("account/login")
     fun login(

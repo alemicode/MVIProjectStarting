@@ -1,7 +1,5 @@
-package com.example.powerfulljetpack.util
+package com.mohamad.projectstarting.util
 import androidx.lifecycle.LiveData
-import com.mohamad.projectstarting.util.GenericApiResponse
-import com.mohamad.projectstarting.util.LiveDataCallAdapter
 import retrofit2.CallAdapter
 import retrofit2.CallAdapter.Factory
 import retrofit2.Retrofit

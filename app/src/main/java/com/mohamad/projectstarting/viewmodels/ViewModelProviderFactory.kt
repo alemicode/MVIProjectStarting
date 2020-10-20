@@ -1,4 +1,4 @@
-package com.example.powerfulljetpack.viewmodels
+package com.mohamad.projectstarting.viewmodels
 
 
 import androidx.lifecycle.ViewModel

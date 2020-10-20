@@ -1,4 +1,4 @@
-package com.example.powerfulljetpack.util
+package com.mohamad.projectstarting.util
 
 class Constans {
 

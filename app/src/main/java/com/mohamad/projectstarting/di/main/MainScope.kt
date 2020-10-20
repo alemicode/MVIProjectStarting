@@ -1,4 +1,4 @@
-package com.example.powerfulljetpack.di.main
+package com.mohamad.projectstarting.di.main
 
 import javax.inject.Scope
 

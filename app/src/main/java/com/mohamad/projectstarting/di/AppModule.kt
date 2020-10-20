@@ -5,12 +5,8 @@ import android.app.Application;
 import android.content.Context
 import android.content.SharedPreferences
 
-import androidx.room.Room;
-import com.bumptech.glide.Glide
-import com.bumptech.glide.RequestManager
-import com.bumptech.glide.request.RequestOptions
-import com.example.powerfulljetpack.util.Constans
-import com.example.powerfulljetpack.util.LiveDataCallAdapterFactory
+import com.mohamad.projectstarting.util.Constans
+import com.mohamad.projectstarting.util.LiveDataCallAdapterFactory
 
 import com.google.gson.Gson
 import com.google.gson.GsonBuilder

@@ -3,9 +3,9 @@ package com.mohamad.projectstarting.repository
 import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MediatorLiveData
-import com.example.powerfulljetpack.util.Constans.Companion.NETWORK_TIMEOUT
-import com.example.powerfulljetpack.util.Constans.Companion.TESTING_CACHE_DELAY
-import com.example.powerfulljetpack.util.Constans.Companion.TESTING_NETWORK_DELAY
+import com.mohamad.projectstarting.util.Constans.Companion.NETWORK_TIMEOUT
+import com.mohamad.projectstarting.util.Constans.Companion.TESTING_CACHE_DELAY
+import com.mohamad.projectstarting.util.Constans.Companion.TESTING_NETWORK_DELAY
 
 import com.mohamad.projectstarting.ui.Response
 import com.mohamad.projectstarting.ui.ResponseType

@@ -1,7 +1,7 @@
 package com.mohamad.projectstarting.di
 
 import androidx.lifecycle.ViewModelProvider
-import com.example.powerfulljetpack.viewmodels.ViewModelProviderFactory
+import com.mohamad.projectstarting.viewmodels.ViewModelProviderFactory
 import dagger.Binds
 import dagger.Module
 
