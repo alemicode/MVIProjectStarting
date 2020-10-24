@@ -4,6 +4,7 @@ package com.mohamad.projectstarting.di
 import android.app.Application;
 import android.content.Context
 import android.content.SharedPreferences
+import androidx.room.Room
 
 import com.mohamad.projectstarting.util.Constans
 import com.mohamad.projectstarting.util.LiveDataCallAdapterFactory
@@ -63,6 +64,8 @@ class AppModule {
             .baseUrl(Constans.BASE_URL)
 
     }
+
+
 
 
 }

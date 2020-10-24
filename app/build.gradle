@@ -9,7 +9,7 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.2"
     defaultConfig {
-        applicationId "com.mohamad.starting"
+        applicationId "com.example.powerfulljetpack"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode 1
@@ -181,5 +181,9 @@ dependencies {
     //to detect memory leak
     debugImplementation 'com.squareup.leakcanary:leakcanary-android:2.5'
     implementation 'com.squareup.leakcanary:leakcanary-object-watcher-android:2.5'
+
+
+
+    
 
 }
